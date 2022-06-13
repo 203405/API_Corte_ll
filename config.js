@@ -1,5 +1,5 @@
 export const api = {
-    port: process.env.API_PORT || 3000,
+    port: process.env.API_PORT || 3001,
 };
 export const db = {
   user: "nzqbbumitkvvvk",
